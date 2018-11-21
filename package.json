@@ -1,0 +1,17 @@
+{
+    "name": "dark-python-syntax",
+    "theme": "syntax",
+    "version": "2.2.2",
+    "description": "A syntax highlighting theme for MagicPython based off One Dark.",
+    "keywords": [
+        "syntax",
+        "theme",
+        "python",
+        "dark"
+    ],
+    "repository": "https://github.com/ESeng03/dark-python-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
