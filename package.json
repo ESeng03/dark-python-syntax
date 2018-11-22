@@ -2,7 +2,7 @@
     "name": "dark-python-syntax",
     "theme": "syntax",
     "version": "2.3.0",
-    "description": "A syntax highlighting theme for MagicPython based off One Dark.",
+    "description": "A modified syntax for python based off OneDark",
     "keywords": [
         "syntax",
         "theme",
